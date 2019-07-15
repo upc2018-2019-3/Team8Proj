@@ -1,0 +1,4 @@
+jdk1.8 
+mysql5.7 
+tomcat7.0 
+eclipse
